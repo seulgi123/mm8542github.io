@@ -1,0 +1,22 @@
+.main-background {
+	background: url(img/img.jpg) 0 0 no-repeat;
+	background-size: cover;
+	/*background-position: center;*/
+	color: #fff;
+}
+.content {
+	/*text-align: center;*/
+	width: ;
+}
+.content img {
+	width: 100px;
+}
+.title {
+	font-size: 32px;
+}
+
+.form {
+	height: 500pxs;
+	background: #000 url(img/map-image.png) 0 0 no-repeat;
+	background-size: cover;
+}
